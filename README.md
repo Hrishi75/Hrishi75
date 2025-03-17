@@ -1,5 +1,6 @@
-## Hi , I am Hrishikesh Borkar 👋          
+## Hi , I am Hrishikesh Borkar 👋        
 
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Hrishi75)
 
 
 
